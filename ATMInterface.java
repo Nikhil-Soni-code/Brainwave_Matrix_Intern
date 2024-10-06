@@ -1,5 +1,3 @@
-package CodSoft;
-
 import java.util.Scanner;
 
 class ATM_Machine{
